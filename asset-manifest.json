@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/tanc/static/css/main.febd22f6.chunk.css",
-    "main.js": "/tanc/static/js/main.a91bb6bf.chunk.js",
-    "main.js.map": "/tanc/static/js/main.a91bb6bf.chunk.js.map",
-    "runtime-main.js": "/tanc/static/js/runtime-main.228afc46.js",
-    "runtime-main.js.map": "/tanc/static/js/runtime-main.228afc46.js.map",
-    "static/js/2.8a9c46e4.chunk.js": "/tanc/static/js/2.8a9c46e4.chunk.js",
-    "static/js/2.8a9c46e4.chunk.js.map": "/tanc/static/js/2.8a9c46e4.chunk.js.map",
-    "index.html": "/tanc/index.html",
-    "precache-manifest.a612d64b49bea933e27efd2897fcc710.js": "/tanc/precache-manifest.a612d64b49bea933e27efd2897fcc710.js",
-    "service-worker.js": "/tanc/service-worker.js",
-    "static/css/main.febd22f6.chunk.css.map": "/tanc/static/css/main.febd22f6.chunk.css.map",
-    "static/js/2.8a9c46e4.chunk.js.LICENSE.txt": "/tanc/static/js/2.8a9c46e4.chunk.js.LICENSE.txt",
-    "static/media/AnuraagTemp.jpg": "/tanc/static/media/AnuraagTemp.35c6d61e.jpg",
-    "static/media/ChrisTemp.jpg": "/tanc/static/media/ChrisTemp.471c7f61.jpg",
-    "static/media/NavedTemp.jpg": "/tanc/static/media/NavedTemp.0d53c6a4.jpg",
-    "static/media/Scene1.png": "/tanc/static/media/Scene1.b4d9c2d4.png",
-    "static/media/Scene2.png": "/tanc/static/media/Scene2.571daa04.png",
-    "static/media/Scene3.png": "/tanc/static/media/Scene3.3bb950f5.png",
-    "static/media/TabithaTemp.jpg": "/tanc/static/media/TabithaTemp.39ae7b9b.jpg"
+    "main.css": "/static/css/main.febd22f6.chunk.css",
+    "main.js": "/static/js/main.ffeb87ca.chunk.js",
+    "main.js.map": "/static/js/main.ffeb87ca.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0a4334e4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0a4334e4.js.map",
+    "static/js/2.8a9c46e4.chunk.js": "/static/js/2.8a9c46e4.chunk.js",
+    "static/js/2.8a9c46e4.chunk.js.map": "/static/js/2.8a9c46e4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2ea8b262408965a4e57760d9d00ac6f7.js": "/precache-manifest.2ea8b262408965a4e57760d9d00ac6f7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.febd22f6.chunk.css.map": "/static/css/main.febd22f6.chunk.css.map",
+    "static/js/2.8a9c46e4.chunk.js.LICENSE.txt": "/static/js/2.8a9c46e4.chunk.js.LICENSE.txt",
+    "static/media/AnuraagTemp.jpg": "/static/media/AnuraagTemp.35c6d61e.jpg",
+    "static/media/ChrisTemp.jpg": "/static/media/ChrisTemp.471c7f61.jpg",
+    "static/media/NavedTemp.jpg": "/static/media/NavedTemp.0d53c6a4.jpg",
+    "static/media/Scene1.png": "/static/media/Scene1.b4d9c2d4.png",
+    "static/media/Scene2.png": "/static/media/Scene2.571daa04.png",
+    "static/media/Scene3.png": "/static/media/Scene3.3bb950f5.png",
+    "static/media/TabithaTemp.jpg": "/static/media/TabithaTemp.39ae7b9b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.228afc46.js",
+    "static/js/runtime-main.0a4334e4.js",
     "static/js/2.8a9c46e4.chunk.js",
     "static/css/main.febd22f6.chunk.css",
-    "static/js/main.a91bb6bf.chunk.js"
+    "static/js/main.ffeb87ca.chunk.js"
   ]
 }
